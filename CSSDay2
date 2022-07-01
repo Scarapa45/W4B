@@ -1,0 +1,8 @@
+h1 {
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium';
+}
+ul {
+    color: rgb(177, 47, 47);
+
+}
